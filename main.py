@@ -17,8 +17,8 @@ print("rectangle:", area)
 
 #the area of calculation a circle.
 
-radius = 50   
-area = 3.14 * radius * radius  
+radious = 50   
+area = 3.14 * radious * radious  
 print("circle:", area) 
 
 #The area calculates of the cube.
