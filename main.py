@@ -2,7 +2,7 @@
 #Age calculation with birth year.
 
 from datetime import date
-dob =  input("Enter your date of birth: ")
+dob =  input("Enter your date of birth year: ")
 today = date.today()
 cruntYear = today.strftime("%Y")
 age =  int(cruntYear) - int(dob)
